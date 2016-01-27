@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SAPDotNetConnector3.x64</id>
+    <version>1.0.0</version>
+    <title>SAPDotNetConnector3.x64</title>
+    <authors>hkr</authors>
+    <owners>Fielmann AG</owners>
+    <description>
+      Beinhaltet die Bilbliotheken des SAP .NET Connector 3.0 in der x64-Version zum Einbinden in ein Visual Studio Projekt.
+      https://websmp105.sap-ag.de/~form/sapnet?_SHORTKEY=01100035870000719347
+    </description>
+    <releaseNotes>
+    </releaseNotes>
+    <summary>
+      SAP Connector for Microsoft .NET 3.0.16.0 for Windows 64bit (x64)
+    </summary>
+    <language>en-US</language>
+    <projectUrl>http://0002-tfsp02:8080/tfs/DefaultCollection/Fielmann</projectUrl>
+    <iconUrl>\\0002-TFSP02\NuGetPackages\Content\Images/FielmannIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl-->
+    <copyright>Copyright Fielmann AG 2016</copyright>
+    <!--
+    <dependencies>
+        <group targetFramework="net40">
+          <dependency id="log4net" version="1.2.10" />
+        </group>
+    </dependencies>
+	  -->
+    <references></references>
+    <tags>Fielmann AG ZenITCentral</tags>
+  </metadata>
+  <files>
+    <file src="lib\" target="lib\net40" />
+  </files>
+</package>

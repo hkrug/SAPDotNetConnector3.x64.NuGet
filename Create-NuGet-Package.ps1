@@ -1,0 +1,1 @@
+.\nuget.exe pack "SAPDotNetConnector3.x64.nuspec"
