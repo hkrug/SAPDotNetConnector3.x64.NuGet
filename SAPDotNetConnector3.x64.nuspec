@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SAPDotNetConnector3.x64</id>
-    <version>1.0.0</version>
+    <version>3.0.18</version>
     <title>SAPDotNetConnector3.x64</title>
     <authors>hkr</authors>
     <owners>Fielmann AG</owners>
@@ -13,7 +13,7 @@
     <releaseNotes>
     </releaseNotes>
     <summary>
-      SAP Connector for Microsoft .NET 3.0.16.0 for Windows 64bit (x64)
+      SAP Connector for Microsoft .NET 3.0.18.0 for Windows 64bit (x64)
     </summary>
     <language>en-US</language>
     <projectUrl>http://0002-tfsp02:8080/tfs/DefaultCollection/Fielmann</projectUrl>
