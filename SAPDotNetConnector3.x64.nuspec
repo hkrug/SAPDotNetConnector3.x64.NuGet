@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SAPDotNetConnector3.x64</id>
-    <version>3.0.18</version>
+    <version>3.0.19</version>
     <title>SAPDotNetConnector3.x64</title>
     <authors>hkr</authors>
     <owners>Fielmann AG</owners>
@@ -13,14 +13,14 @@
     <releaseNotes>
     </releaseNotes>
     <summary>
-      SAP Connector for Microsoft .NET 3.0.18.0 for Windows 64bit (x64)
+      SAP Connector for Microsoft .NET 3.0.19.0 for Windows 64bit (x64)
     </summary>
     <language>en-US</language>
     <projectUrl>http://0002-tfsp02:8080/tfs/DefaultCollection/Fielmann</projectUrl>
     <iconUrl>\\0002-TFSP02\NuGetPackages\Content\Images/FielmannIcon-50x50.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <!--licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl-->
-    <copyright>Copyright Fielmann AG 2016</copyright>
+    <copyright>Copyright Fielmann AG 2016-2017</copyright>
     <!--
     <dependencies>
         <group targetFramework="net40">
@@ -29,7 +29,7 @@
     </dependencies>
 	  -->
     <references></references>
-    <tags>Fielmann AG ZenITCentral</tags>
+    <tags>Fielmann AG SAP Connector</tags>
   </metadata>
   <files>
     <file src="lib\" target="lib\net40" />
